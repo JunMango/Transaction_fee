@@ -1,4 +1,4 @@
-# Tranction_fee
+# Transaction_fee
 
 수업 시간에 매번 curl 명령어를 사용하여
 '''curl https://bitcoin-mainnet.public.blastapi.io \
