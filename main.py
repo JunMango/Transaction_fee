@@ -1,6 +1,6 @@
 import requests
 
-print("hi this is bitcoin fee calculator form junMango")
+print("hi this is bitcoin fee calculator from junMango")
 
 # hash = input() # 해쉬 값 받기
 hash = "61247a248efdf6181d806dc2a3634ebde0d5a51c4cb9dbdc666f797ed4f2b79f"
